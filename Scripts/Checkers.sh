@@ -7,7 +7,9 @@
 #
 #   Buckley G., Ramm G. and Trépout S., 'GoldDigger and Checkers, computational developments in
 #   cryo-scanning transmission electron tomography to improve the quality of reconstructed volumes'
-#   Journal, volume (year), page-page.
+#   Biol Imaging. 2024 Mar 27:4:e6. eCollection 2024.
+#   PMID: 38617998
+#   doi: 10.1017/S2633903X24000047
 #
 #   Ramaciotti Centre for CryoEM
 #   Monash University
