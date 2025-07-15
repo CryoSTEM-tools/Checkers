@@ -37,14 +37,13 @@ module load matlab
 #### INPUT AND PARAMETERS ####
 ##############################
 # Define the directory where computation is performed
-#computingdir=/path/to/my/working/directory
-computingdir=/home/strepout/st67/Projects/TestWorkflow
+computingdir=/path/to/my/working/directory
 
 # Define directory containing the data to process (indicate the basename)
-#datadir=/path/to/my/data/directory/Tomo
-datadir=/scratch2/sa61/ZhiYing2/tilt_series/Tomo
+datadir=/path/to/my/data/directory/Tomo
 
 # Define the path where Tomo3D is installed
+# If you do not want to use Tomo3D, it is possible to reconstruct using Imod
 tomo3dpath=/home/strepout/st67/Soft/tomo3d-2.2_january2023/bin/
 
 # Define the thickness (in pixels) of your recontructed tomograms
